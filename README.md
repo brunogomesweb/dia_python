@@ -1,2 +1,2 @@
-# dia_python
+# dio_python
 Desafio DIO Python
